@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Menu Sonic",
+	"image": "sonic_menu",
+	"position": [
+		160,
+		80
+	],
+	"flipX": false,
+	"scale": 0.6,
+	"confirm_anim": "M Dad Idle"
+}
