@@ -1,0 +1,32 @@
+{
+	"storyName": "Green Hill zone",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"sonic",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Funky Hills",
+			"sonic",
+			[
+				106,
+				113,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "green hills",
+	"hiddenUntilUnlocked": false
+}
